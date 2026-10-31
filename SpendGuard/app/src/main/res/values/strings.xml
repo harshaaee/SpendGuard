@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpendGuard</string>
+    <string name="blocker_label">SpendGuard UPI Blocker</string>
+    <string name="blocker_desc">Closes your selected UPI / payment apps when your daily, weekly or monthly spending limit is crossed. It only watches which app is opened; it does not read screen content.</string>
+</resources>
